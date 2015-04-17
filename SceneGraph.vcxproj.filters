@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="components\source\Geode.cpp">
+      <Filter>SceneGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\Group.cpp">
+      <Filter>SceneGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\MatrixTransform.cpp">
+      <Filter>SceneGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\Node.cpp">
+      <Filter>SceneGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\Sphere.cpp">
+      <Filter>SceneGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\source\Cube.cpp">
+      <Filter>SceneGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\source\Bunny.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\source\Camera.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\source\Dragon.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\source\House.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\source\Object.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\source\PointImageObject.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\source\TestObject.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\RenderableObject.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Source\Vector3.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Source\Vector4.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Source\Matrix4.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\source\Base.cpp">
+      <Filter>Math</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\RobotArm.cpp">
+      <Filter>Object\Robot</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\RobotLeg.cpp">
+      <Filter>Object\Robot</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\Robot.cpp">
+      <Filter>Object\Robot</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\RobotHead.cpp">
+      <Filter>Object\Robot</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\RobotTorso.cpp">
+      <Filter>Object\Robot</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\RobotPart.cpp">
+      <Filter>Object\Robot</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\IUpdatable.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\MotionTransform.cpp">
+      <Filter>SceneGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\Wall.cpp">
+      <Filter>SceneGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\source\Keyboard.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Source\main.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\Mouse.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\source\Utility.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Source\window.cpp">
+      <Filter>System</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\source\World.cpp">
+      <Filter>Object</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\Light.cpp">
+      <Filter>SceneGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="components\source\ReusableGroup.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="components\include\Sphere.h">
+      <Filter>SceneGraph\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\Node.h">
+      <Filter>SceneGraph\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\MatrixTransform.h">
+      <Filter>SceneGraph\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\Geode.h">
+      <Filter>SceneGraph\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\Group.h">
+      <Filter>SceneGraph\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\Cube.h">
+      <Filter>SceneGraph\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\Bunny.h">
+      <Filter>Object\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\Dragon.h">
+      <Filter>Object\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\House.h">
+      <Filter>Object\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\Object.h">
+      <Filter>Object\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\PointImageObject.h">
+      <Filter>Object\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\TestObject.h">
+      <Filter>Object\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\Camera.h">
+      <Filter>Object\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\RenderableObject.h">
+      <Filter>Object\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\Matrix4.h">
+      <Filter>Math\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\Vector4.h">
+      <Filter>Math\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\Vector3.h">
+      <Filter>Math\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\Base.h">
+      <Filter>Math\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\RobotArm.h">
+      <Filter>Object\Robot\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\RobotLeg.h">
+      <Filter>Object\Robot\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\Robot.h">
+      <Filter>Object\Robot\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\RobotHead.h">
+      <Filter>Object\Robot\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\RobotTorso.h">
+      <Filter>Object\Robot\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\RobotPart.h">
+      <Filter>Object\Robot\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\IUpdatable.h">
+      <Filter>Object\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\MotionTransform.h">
+      <Filter>SceneGraph\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\Wall.h">
+      <Filter>SceneGraph\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\World.h">
+      <Filter>Object\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\Config.h">
+      <Filter>System\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\DataType.h">
+      <Filter>System\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\Keyboard.h">
+      <Filter>System\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\main.h">
+      <Filter>System\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\Mouse.h">
+      <Filter>System\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\Utility.h">
+      <Filter>System\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\tga.h">
+      <Filter>System\include</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\include\Window.h">
+      <Filter>System\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\Light.h">
+      <Filter>SceneGraph\include</Filter>
+    </ClInclude>
+    <ClInclude Include="components\include\ReusableGroup.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{f62fa3d3-eacf-4cff-8d70-912b9f6b78e4}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{a8600ea7-237a-45c0-9361-8c7f4c142e45}</UniqueIdentifier>
+      <Extensions>cpp</Extensions>
+    </Filter>
+    <Filter Include="SceneGraph">
+      <UniqueIdentifier>{444cb62a-2159-4386-8804-d473d79bd9bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SceneGraph\include">
+      <UniqueIdentifier>{16f92c7a-4a32-4691-8a14-2638e9107fc0}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Object">
+      <UniqueIdentifier>{fe1b4170-aded-4278-b9d5-941221d5e969}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\include">
+      <UniqueIdentifier>{54fec74e-d6b0-452f-b71b-348b7be65a58}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Math">
+      <UniqueIdentifier>{d6ab9e4c-bbf7-47cf-80ef-cf2f19c71429}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Math\include">
+      <UniqueIdentifier>{3c9e921d-6ed7-4c7d-bb57-9f6abbc3a45a}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Object\Robot">
+      <UniqueIdentifier>{b611a594-8658-4057-80e9-a4f215fd3f82}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object\Robot\include">
+      <UniqueIdentifier>{f37823e1-9810-4071-845c-3074c1432a33}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System">
+      <UniqueIdentifier>{180eabd3-90b5-4118-9b7b-8a89b4b6e593}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System\include">
+      <UniqueIdentifier>{f88bbeb3-d7d6-46b2-b434-9852cb53d2f8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
